@@ -1,4 +1,3 @@
 # sample-my-repo
 
-for practice
-updated!
+更新
